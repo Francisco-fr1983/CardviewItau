@@ -1,0 +1,71 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="AndroidDomInspection" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintAppCompatCustomView" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintBottomAppBar" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintDeprecated" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintExpiredTargetSdkVersion" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintExpiringTargetSdkVersion" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintExportedReceiver" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintGradleCompatible" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintGradleDeprecated" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintGradleDeprecatedConfiguration" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintGradleIdeError" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintGradlePluginVersion" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintGridLayout" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintInvalidId" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintInvalidPermission" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintKotlinPropertyAccess" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintLambdaLast" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintLibraryCustomView" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintMinSdkTooLow" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintNegativeMargin" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintNewApi" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintNoHardKeywords" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintNonResizeableActivity" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintOnClick" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintOutdatedLibrary" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintPrivateApi" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintQueryAllPackagesPermission" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintRestrictedApi" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintUnknownNullness" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidMissingOnClickHandler" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidRoomQuestionMarkBindParameter" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidUnknownAttribute" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidUnresolvableTag" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidUnresolvedRoomSqlReference" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="ClassWithTooManyDependencies" enabled="true" level="TYPO" enabled_by_default="true">
+      <option name="limit" value="10" />
+    </inspection_tool>
+    <inspection_tool class="ClassWithTooManyDependents" enabled="true" level="TYPO" enabled_by_default="true">
+      <option name="limit" value="10" />
+    </inspection_tool>
+    <inspection_tool class="ClassWithTooManyTransitiveDependencies" enabled="true" level="TYPO" enabled_by_default="true">
+      <option name="limit" value="35" />
+    </inspection_tool>
+    <inspection_tool class="ClassWithTooManyTransitiveDependents" enabled="true" level="TYPO" enabled_by_default="true">
+      <option name="limit" value="35" />
+    </inspection_tool>
+    <inspection_tool class="ConstantConditions" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="SUGGEST_NULLABLE_ANNOTATIONS" value="false" />
+      <option name="DONT_REPORT_TRUE_ASSERT_STATEMENTS" value="false" />
+    </inspection_tool>
+    <inspection_tool class="CyclicClassDependency" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="CyclicPackageDependency" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="Dependency" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="DeprecatedGradleDependency" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DifferentKotlinGradleVersion" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DifferentStdlibGradleVersion" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="IllegalIdentifier" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="InconsistentLineSeparators" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="InconsistentResourceBundle" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="JsonStandardCompliance" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="KotlinInternalExternalFunction" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="KotlinInvalidBundleOrProperty" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="PermissionUsageInspection" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="RemoveEmptyPrimaryConstructor" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="SSBasedInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="SyntaxError" enabled="true" level="TYPO" enabled_by_default="true" />
+  </profile>
+</component>
